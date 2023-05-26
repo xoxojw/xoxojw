@@ -8,7 +8,7 @@
 
 ![jw-dev-jeans](https://github.com/xoxojw/xoxojw/assets/124491335/d6411a2b-e98c-4879-ae0a-daf0bd3ea3f5)
 
-<h3>🌱I’m currently studying</h3>
+<h3>I’m currently studying🌱</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -18,7 +18,7 @@
 <br />
 <br />
 <br />
-  🤔 I'm always open to help and advice because I'm a beginner!<br />
+  🤗 I'm always open to help and advice because I'm a beginner!<br />
   ⚡ <b>Fun fact</b> : Actually, I'm not a big fan of fried chicken...<br />
 
 <br/>
