@@ -18,15 +18,11 @@
 <br />
 <br />
 <br />
-  🩵 Thank you so much for being here! 🩵<br />
+  💙 Thank you so much for being here! 💙<br />
   I'm always open to help and advice! 🤗<br />
 
 <br/>
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&layout=compact"><br><br>
-</div>
-
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
 
@@ -43,4 +39,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&layout=compact"><br><br>
+</div>
 -->
