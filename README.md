@@ -17,7 +17,7 @@
 <br />
 <br />
   
-<h3>𝙏𝙤𝙤𝙡𝙨 🛠️</h3>
+<h3>𝘛𝘰𝘰𝘭𝘴 🛠️</h3>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   
