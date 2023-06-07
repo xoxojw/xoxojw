@@ -14,20 +14,39 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
-<br />
-<br />
+<br>
+<br>
   
 <h3>𝘛𝘰𝘰𝘭𝘴 🛠️</h3>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  
+
+<br>
+<br>
+<br>
+ 
+<details>
+<summary>𝘔𝘰𝘳𝘦 𝘥𝘦𝘵𝘢𝘪𝘭𝘴 👀</summary>
+<div markdown="1">
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&langs_count=10&layout=compact&theme=tokyonight)
+ 
+![Jiwon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxojw&show_icons=true&theme=tokyonight)
+
+ 
+</div>
+</details>
+ 
 ---
   
   <h3>
-  💙 ᴛʜᴀɴᴋ ʏᴏᴜ sᴏ ᴍᴜᴄʜ ғᴏʀ ʙᴇɪɴɢ ʜᴇʀᴇ! 💙<br />
-   ɪ'ᴍ ᴀʟᴡᴀʏs ᴏᴘᴇɴ ᴛᴏ ʜᴇʟᴘ ᴀɴᴅ ᴀᴅᴠɪᴄᴇ! 🤗<br />
+💙 ᴛʜᴀɴᴋ ʏᴏᴜ sᴏ ᴍᴜᴄʜ ғᴏʀ ʙᴇɪɴɢ ʜᴇʀᴇ!💙<br>
+ɪ'ᴍ ᴀʟᴡᴀʏs ᴏᴘᴇɴ ᴛᴏ ʜᴇʟᴘ ᴀɴᴅ ᴀᴅᴠɪᴄᴇ. 🤗<br>
   </h3>
-<br/>
+<br>
+ <p>📫 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ: xᴏxᴏᴊᴡ.ᴅᴇᴠ@ɢᴍᴀɪʟ.ᴄᴏᴍ</p>
   
 
 </div>
