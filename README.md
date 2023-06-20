@@ -31,9 +31,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&langs_count=10&layout=compact&theme=tokyonight)
- 
-![Jiwon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxojw&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&langs_count=10&layout=compact&theme=tokyonight" style="height: 160px" /> <img src="https://github-readme-stats.vercel.app/api?username=xoxojw&show_icons=true&theme=tokyonight" style="height: 160px" />
 
 <p>⚡𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 : 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆, 𝗜'𝗺 𝗻𝗼𝘁 𝗮 𝗯𝗶𝗴 𝗳𝗮𝗻 𝗼𝗳 𝗳𝗿𝗶𝗲𝗱 𝗰𝗵𝗶𝗰𝗸𝗲𝗻...</p>
  
