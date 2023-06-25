@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a> 
 <a href="https://xoxojw.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
 
 
