@@ -1,14 +1,14 @@
 <a href="mailto:xoxojw.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a> 
-<a href="https://xoxojw.tistory.com/">
+<a href="https://xoxojw.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
 
 
 # <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" style="max-width: 100%;"> Hi there, I'm Jiwon!
 - Based in Seoul, South Korea
-- To be Front-end developer & now write code with React & JavaScript
+- To be Front-end developer, write code with React & JavaScript
 - Fun fact⚡ Actually, I'm not a big fan of fried chicken 😂
 - Thank you so much for being here! I'm always open to help and advice💙
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   
 - **Infrastructure**
 
