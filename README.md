@@ -12,10 +12,8 @@
 - Fun fact⚡ Actually, I'm not a big fan of fried chicken 😂
 - Thank you so much for being here! I'm always open to help and advice💙
 
-<br />
-
 <details>
-<summary>👀❓</summary>
+<summary>👀✨</summary>
 
 <br />
 
@@ -24,7 +22,7 @@
 </div>
 </details>
 
-# 📖 Stacks currently studying
+# 🛠️ Stacks currently studying
 - **WEB Front-end**
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
