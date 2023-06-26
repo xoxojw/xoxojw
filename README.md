@@ -14,9 +14,15 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&langs_count=10&layout=compact&theme=tokyonight" style="height: 160px" /> <img src="https://github-readme-stats.vercel.app/api?username=xoxojw&show_icons=true&theme=tokyonight" style="height: 160px" />
+<details>
+<summary>👀❓</summary>
 
 <br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxojw&langs_count=10&layout=compact&theme=tokyonight" style="height: 160px" /> <img src="https://github-readme-stats.vercel.app/api?username=xoxojw&show_icons=true&theme=tokyonight" style="height: 160px" />
+
+</div>
+</details>
 
 # 📖 Stacks currently studying
 - **WEB Front-end**
