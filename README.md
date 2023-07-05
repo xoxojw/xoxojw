@@ -6,7 +6,7 @@
 </a>
 
 
-# <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" style="max-width: 100%;"> Hi there, I'm Jiwon!
+# 👋 Hi there, I'm Jiwon!
 - Based in Seoul, South Korea
 - To be Front-end developer, write code with React & JavaScript
 - Fun fact⚡ Actually, I'm not a big fan of fried chicken 😂
